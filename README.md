@@ -14,7 +14,7 @@ A fullstack web and mobile job portal platform that helps job seekers enhance th
 
 ## 🔗 Live Demo
 
-[Visit Website](https://joltjordan.vercel.app)
+[Visit Website](https://jolt.timmytech.fun)
 
 ## ✨ Features
 
